@@ -1,4 +1,4 @@
-package com.firstModule;
+package exercises;
 
 public class dataMain {
 
@@ -22,4 +22,5 @@ public class dataMain {
         System.out.println(boolenFalse);
 
     }
+
 }
