@@ -14,8 +14,8 @@ import java.util.Scanner;
 public class EstructuraControl {
 
     public static void main(String[] args) {
-//        createString();
-        createStringWhile();
+        createString();
+//        createStringWhile();
 
     }
 
